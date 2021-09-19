@@ -1,0 +1,1 @@
+# asus-rog-strix-b460-f-gaming-hackintosh-efi
