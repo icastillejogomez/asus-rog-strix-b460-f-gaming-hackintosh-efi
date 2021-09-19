@@ -12,7 +12,7 @@ Funcionalidades:
 - [x] iServices (iMessage, FaceTime, etc.)
 - [x] Wifi
 - [x] Bluethoot
-- [ ] Airport (Al usar la tarjeta TP-Link TX50E no es posible usar la funcionalidad de Airdrop.
+- [ ] Airport (Al usar la tarjeta TP-Link TX50E no es posible usar la funcionalidad de Airdrop).
 
 El mapa de puertos USBs está configurado para esta placa teniendo 3 USBs 3.0 (XHC) en la parte trasera de la placa + 1 puerto USB-C (gestionado por un controlador PSXS). En la parte delantera de la placa hay un USB 3.0 (XHC) + 2 puertos USB 2.0 (en HUB, por lo que en la placa cuenta como un solo puerto el cual incluye el puerto Wifi configurado como tipo 255, para uso interno de la placa)
 
