@@ -628,7 +628,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>&lt;type_here&gt;</string>
+			<string>C02141700GUPHCDUE</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -642,9 +642,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>&lt;type_here&gt;</string>
+			<string>C02GJ0S4PN5T</string>
 			<key>SystemUUID</key>
-			<string>&lt;type_here&gt;</string>
+			<string>ECEA8770-7D29-4FFD-825F-D8F10CE3AFF6</string>
 		</dict>
 		<key>Memory</key>
 		<dict>
